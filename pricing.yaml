@@ -1,0 +1,1408 @@
+---
+ondemand:
+  eu-west-1:
+    linux:
+      m4.2xlarge:
+        price_per_hour: 0.5280
+        region: eu-west-1
+        period: 0
+      c3.2xlarge:
+        price_per_hour: 0.4780
+        region: eu-west-1
+        period: 0
+      g2.8xlarge:
+        price_per_hour: 2.8080
+        region: eu-west-1
+        period: 0
+      r3.large:
+        price_per_hour: 0.1850
+        region: eu-west-1
+        period: 0
+      i2.xlarge:
+        price_per_hour: 0.9380
+        region: eu-west-1
+        period: 0
+      t2.nano:
+        price_per_hour: 0.0070
+        region: eu-west-1
+        period: 0
+      t2.micro:
+        price_per_hour: 0.0140
+        region: eu-west-1
+        period: 0
+      i2.2xlarge:
+        price_per_hour: 1.8760
+        region: eu-west-1
+        period: 0
+      m3.xlarge:
+        price_per_hour: 0.2930
+        region: eu-west-1
+        period: 0
+      c4.2xlarge:
+        price_per_hour: 0.4770
+        region: eu-west-1
+        period: 0
+      d2.4xlarge:
+        price_per_hour: 2.9400
+        region: eu-west-1
+        period: 0
+      d2.8xlarge:
+        price_per_hour: 5.8800
+        region: eu-west-1
+        period: 0
+      c4.xlarge:
+        price_per_hour: 0.2380
+        region: eu-west-1
+        period: 0
+      c3.4xlarge:
+        price_per_hour: 0.9560
+        region: eu-west-1
+        period: 0
+      c3.8xlarge:
+        price_per_hour: 1.9120
+        region: eu-west-1
+        period: 0
+      t2.large:
+        price_per_hour: 0.1120
+        region: eu-west-1
+        period: 0
+      m4.4xlarge:
+        price_per_hour: 1.0560
+        region: eu-west-1
+        period: 0
+      c4.large:
+        price_per_hour: 0.1190
+        region: eu-west-1
+        period: 0
+      r3.xlarge:
+        price_per_hour: 0.3710
+        region: eu-west-1
+        period: 0
+      r3.2xlarge:
+        price_per_hour: 0.7410
+        region: eu-west-1
+        period: 0
+      r3.4xlarge:
+        price_per_hour: 1.4820
+        region: eu-west-1
+        period: 0
+      r3.8xlarge:
+        price_per_hour: 2.9640
+        region: eu-west-1
+        period: 0
+      i2.4xlarge:
+        price_per_hour: 3.7510
+        region: eu-west-1
+        period: 0
+      t2.small:
+        price_per_hour: 0.0280
+        region: eu-west-1
+        period: 0
+      m3.large:
+        price_per_hour: 0.1460
+        region: eu-west-1
+        period: 0
+      d2.xlarge:
+        price_per_hour: 0.7350
+        region: eu-west-1
+        period: 0
+      c3.xlarge:
+        price_per_hour: 0.2390
+        region: eu-west-1
+        period: 0
+      g2.2xlarge:
+        price_per_hour: 0.7020
+        region: eu-west-1
+        period: 0
+      m3.medium:
+        price_per_hour: 0.0730
+        region: eu-west-1
+        period: 0
+      c3.large:
+        price_per_hour: 0.1200
+        region: eu-west-1
+        period: 0
+      m3.2xlarge:
+        price_per_hour: 0.5850
+        region: eu-west-1
+        period: 0
+      c4.4xlarge:
+        price_per_hour: 0.9530
+        region: eu-west-1
+        period: 0
+      c4.8xlarge:
+        price_per_hour: 1.9060
+        region: eu-west-1
+        period: 0
+      i2.8xlarge:
+        price_per_hour: 7.5020
+        region: eu-west-1
+        period: 0
+      m4.xlarge:
+        price_per_hour: 0.2640
+        region: eu-west-1
+        period: 0
+      m4.10xlarge:
+        price_per_hour: 2.6410
+        region: eu-west-1
+        period: 0
+      d2.2xlarge:
+        price_per_hour: 1.4700
+        region: eu-west-1
+        period: 0
+      t2.medium:
+        price_per_hour: 0.0560
+        region: eu-west-1
+        period: 0
+      m4.large:
+        price_per_hour: 0.1320
+        region: eu-west-1
+        period: 0
+    windows:
+      m4.10xlarge:
+        price_per_hour: 4.8810
+        region: eu-west-1
+        period: 0
+      i2.4xlarge:
+        price_per_hour: 3.8910
+        region: eu-west-1
+        period: 0
+      d2.8xlarge:
+        price_per_hour: 6.5580
+        region: eu-west-1
+        period: 0
+      t2.micro:
+        price_per_hour: 0.0190
+        region: eu-west-1
+        period: 0
+      c4.2xlarge:
+        price_per_hour: 0.8340
+        region: eu-west-1
+        period: 0
+      c4.8xlarge:
+        price_per_hour: 3.3340
+        region: eu-west-1
+        period: 0
+      m4.large:
+        price_per_hour: 0.2440
+        region: eu-west-1
+        period: 0
+      m3.xlarge:
+        price_per_hour: 0.5170
+        region: eu-west-1
+        period: 0
+      c4.4xlarge:
+        price_per_hour: 1.6670
+        region: eu-west-1
+        period: 0
+      c3.4xlarge:
+        price_per_hour: 1.5040
+        region: eu-west-1
+        period: 0
+      c3.8xlarge:
+        price_per_hour: 3.0080
+        region: eu-west-1
+        period: 0
+      r3.xlarge:
+        price_per_hour: 0.5810
+        region: eu-west-1
+        period: 0
+      r3.4xlarge:
+        price_per_hour: 1.9440
+        region: eu-west-1
+        period: 0
+      i2.2xlarge:
+        price_per_hour: 1.9460
+        region: eu-west-1
+        period: 0
+      m3.large:
+        price_per_hour: 0.2580
+        region: eu-west-1
+        period: 0
+      d2.2xlarge:
+        price_per_hour: 1.6910
+        region: eu-west-1
+        period: 0
+      t2.small:
+        price_per_hour: 0.0380
+        region: eu-west-1
+        period: 0
+      m4.xlarge:
+        price_per_hour: 0.4880
+        region: eu-west-1
+        period: 0
+      m3.2xlarge:
+        price_per_hour: 1.0330
+        region: eu-west-1
+        period: 0
+      c3.large:
+        price_per_hour: 0.1880
+        region: eu-west-1
+        period: 0
+      r3.2xlarge:
+        price_per_hour: 1.0800
+        region: eu-west-1
+        period: 0
+      r3.8xlarge:
+        price_per_hour: 3.5000
+        region: eu-west-1
+        period: 0
+      d2.4xlarge:
+        price_per_hour: 3.2420
+        region: eu-west-1
+        period: 0
+      t2.nano:
+        price_per_hour: 0.0093
+        region: eu-west-1
+        period: 0
+      c3.2xlarge:
+        price_per_hour: 0.7520
+        region: eu-west-1
+        period: 0
+      m4.4xlarge:
+        price_per_hour: 1.9520
+        region: eu-west-1
+        period: 0
+      c4.xlarge:
+        price_per_hour: 0.4170
+        region: eu-west-1
+        period: 0
+      c3.xlarge:
+        price_per_hour: 0.3760
+        region: eu-west-1
+        period: 0
+      g2.8xlarge:
+        price_per_hour: 3.0860
+        region: eu-west-1
+        period: 0
+      m4.2xlarge:
+        price_per_hour: 0.9760
+        region: eu-west-1
+        period: 0
+      g2.2xlarge:
+        price_per_hour: 0.7670
+        region: eu-west-1
+        period: 0
+      r3.large:
+        price_per_hour: 0.2900
+        region: eu-west-1
+        period: 0
+      i2.8xlarge:
+        price_per_hour: 7.7820
+        region: eu-west-1
+        period: 0
+      t2.large:
+        price_per_hour: 0.1420
+        region: eu-west-1
+        period: 0
+      m3.medium:
+        price_per_hour: 0.1290
+        region: eu-west-1
+        period: 0
+      c4.large:
+        price_per_hour: 0.2080
+        region: eu-west-1
+        period: 0
+      i2.xlarge:
+        price_per_hour: 0.9730
+        region: eu-west-1
+        period: 0
+      d2.xlarge:
+        price_per_hour: 0.8660
+        region: eu-west-1
+        period: 0
+      t2.medium:
+        price_per_hour: 0.0760
+        region: eu-west-1
+        period: 0
+spot:
+  eu-west-1:
+    linux:
+      r3.8xlarge:
+        price_per_hour: 0.9314
+        region: eu-west-1
+        period: 0
+      m2.4xlarge:
+        price_per_hour: 0.0807
+        region: eu-west-1
+        period: 0
+      t1.micro:
+        price_per_hour: 0.0031
+        region: eu-west-1
+        period: 0
+      m4.xlarge:
+        price_per_hour: 0.0434
+        region: eu-west-1
+        period: 0
+      i2.xlarge:
+        price_per_hour: 0.0993
+        region: eu-west-1
+        period: 0
+      i2.2xlarge:
+        price_per_hour: 0.1898
+        region: eu-west-1
+        period: 0
+      m2.xlarge:
+        price_per_hour: 0.0204
+        region: eu-west-1
+        period: 0
+      c3.large:
+        price_per_hour: 0.0206
+        region: eu-west-1
+        period: 0
+      c4.xlarge:
+        price_per_hour: 0.0475
+        region: eu-west-1
+        period: 0
+      d2.xlarge:
+        price_per_hour: 0.0841
+        region: eu-west-1
+        period: 0
+      d2.8xlarge:
+        price_per_hour: 0.6400
+        region: eu-west-1
+        period: 0
+      i2.4xlarge:
+        price_per_hour: 0.4228
+        region: eu-west-1
+        period: 0
+      r3.large:
+        price_per_hour: 0.0251
+        region: eu-west-1
+        period: 0
+      m4.large:
+        price_per_hour: 0.0195
+        region: eu-west-1
+        period: 0
+      c3.xlarge:
+        price_per_hour: 0.0429
+        region: eu-west-1
+        period: 0
+      c4.8xlarge:
+        price_per_hour: 0.3577
+        region: eu-west-1
+        period: 0
+      d2.2xlarge:
+        price_per_hour: 0.1792
+        region: eu-west-1
+        period: 0
+      i2.8xlarge:
+        price_per_hour: 0.7816
+        region: eu-west-1
+        period: 0
+      g2.2xlarge:
+        price_per_hour: 0.2500
+        region: eu-west-1
+        period: 0
+      g2.8xlarge:
+        price_per_hour: 0.5280
+        region: eu-west-1
+        period: 0
+      r3.4xlarge:
+        price_per_hour: 0.2180
+        region: eu-west-1
+        period: 0
+      c3.4xlarge:
+        price_per_hour: 0.1687
+        region: eu-west-1
+        period: 0
+      c4.4xlarge:
+        price_per_hour: 0.1894
+        region: eu-west-1
+        period: 0
+      m1.large:
+        price_per_hour: 0.0201
+        region: eu-west-1
+        period: 0
+      c3.2xlarge:
+        price_per_hour: 0.0820
+        region: eu-west-1
+        period: 0
+      c3.8xlarge:
+        price_per_hour: 0.3386
+        region: eu-west-1
+        period: 0
+      c1.xlarge:
+        price_per_hour: 0.0802
+        region: eu-west-1
+        period: 0
+      m3.medium:
+        price_per_hour: 0.0111
+        region: eu-west-1
+        period: 0
+      m3.large:
+        price_per_hour: 0.0204
+        region: eu-west-1
+        period: 0
+      m4.2xlarge:
+        price_per_hour: 0.1018
+        region: eu-west-1
+        period: 0
+      c4.large:
+        price_per_hour: 0.0216
+        region: eu-west-1
+        period: 0
+      d2.4xlarge:
+        price_per_hour: 0.3200
+        region: eu-west-1
+        period: 0
+      r3.2xlarge:
+        price_per_hour: 0.0905
+        region: eu-west-1
+        period: 0
+      m2.2xlarge:
+        price_per_hour: 0.0435
+        region: eu-west-1
+        period: 0
+      cr1.8xlarge:
+        price_per_hour: 0.3267
+        region: eu-west-1
+        period: 0
+      m3.xlarge:
+        price_per_hour: 0.0413
+        region: eu-west-1
+        period: 0
+      m3.2xlarge:
+        price_per_hour: 0.0827
+        region: eu-west-1
+        period: 0
+      m1.small:
+        price_per_hour: 0.0101
+        region: eu-west-1
+        period: 0
+      m1.medium:
+        price_per_hour: 0.0106
+        region: eu-west-1
+        period: 0
+      c4.2xlarge:
+        price_per_hour: 0.0918
+        region: eu-west-1
+        period: 0
+      c1.medium:
+        price_per_hour: 0.0200
+        region: eu-west-1
+        period: 0
+      cc2.8xlarge:
+        price_per_hour: 0.3243
+        region: eu-west-1
+        period: 0
+      cg1.4xlarge:
+        price_per_hour: 2.3600
+        region: eu-west-1
+        period: 0
+      m4.4xlarge:
+        price_per_hour: 0.2123
+        region: eu-west-1
+        period: 0
+      m4.10xlarge:
+        price_per_hour: 0.5995
+        region: eu-west-1
+        period: 0
+      r3.xlarge:
+        price_per_hour: 0.0462
+        region: eu-west-1
+        period: 0
+      hi1.4xlarge:
+        price_per_hour: 0.1795
+        region: eu-west-1
+        period: 0
+      m1.xlarge:
+        price_per_hour: 0.0403
+        region: eu-west-1
+        period: 0
+    windows:
+      m4.xlarge:
+        price_per_hour: 0.2522
+        region: eu-west-1
+        period: 0
+      c3.4xlarge:
+        price_per_hour: 0.8240
+        region: eu-west-1
+        period: 0
+      c1.medium:
+        price_per_hour: 0.0961
+        region: eu-west-1
+        period: 0
+      cc2.8xlarge:
+        price_per_hour: 0.6440
+        region: eu-west-1
+        period: 0
+      r3.large:
+        price_per_hour: 0.1780
+        region: eu-west-1
+        period: 0
+      m3.large:
+        price_per_hour: 0.1431
+        region: eu-west-1
+        period: 0
+      c3.8xlarge:
+        price_per_hour: 1.6482
+        region: eu-west-1
+        period: 0
+      d2.4xlarge:
+        price_per_hour: 0.9840
+        region: eu-west-1
+        period: 0
+      r3.xlarge:
+        price_per_hour: 0.2902
+        region: eu-west-1
+        period: 0
+      c4.xlarge:
+        price_per_hour: 0.2064
+        region: eu-west-1
+        period: 0
+      d2.xlarge:
+        price_per_hour: 0.2460
+        region: eu-west-1
+        period: 0
+      d2.2xlarge:
+        price_per_hour: 0.3400
+        region: eu-west-1
+        period: 0
+      g2.8xlarge:
+        price_per_hour: 0.4870
+        region: eu-west-1
+        period: 0
+      r3.4xlarge:
+        price_per_hour: 0.7040
+        region: eu-west-1
+        period: 0
+      r3.8xlarge:
+        price_per_hour: 1.0200
+        region: eu-west-1
+        period: 0
+      m2.4xlarge:
+        price_per_hour: 0.4800
+        region: eu-west-1
+        period: 0
+      cr1.8xlarge:
+        price_per_hour: 0.0000
+        region: eu-west-1
+        period: 0
+      m3.xlarge:
+        price_per_hour: 0.2681
+        region: eu-west-1
+        period: 0
+      m4.large:
+        price_per_hour: 0.1273
+        region: eu-west-1
+        period: 0
+      m4.2xlarge:
+        price_per_hour: 0.5055
+        region: eu-west-1
+        period: 0
+      g2.2xlarge:
+        price_per_hour: 0.3719
+        region: eu-west-1
+        period: 0
+      cg1.4xlarge:
+        price_per_hour: 0.0000
+        region: eu-west-1
+        period: 0
+      m1.small:
+        price_per_hour: 0.0321
+        region: eu-west-1
+        period: 0
+      d2.8xlarge:
+        price_per_hour: 1.9680
+        region: eu-west-1
+        period: 0
+      i2.4xlarge:
+        price_per_hour: 0.5150
+        region: eu-west-1
+        period: 0
+      m2.xlarge:
+        price_per_hour: 0.1582
+        region: eu-west-1
+        period: 0
+      hi1.4xlarge:
+        price_per_hour: 0.4810
+        region: eu-west-1
+        period: 0
+      c3.2xlarge:
+        price_per_hour: 0.4121
+        region: eu-west-1
+        period: 0
+      c4.large:
+        price_per_hour: 0.1040
+        region: eu-west-1
+        period: 0
+      c4.4xlarge:
+        price_per_hour: 0.8255
+        region: eu-west-1
+        period: 0
+      m3.medium:
+        price_per_hour: 0.0722
+        region: eu-west-1
+        period: 0
+      m3.2xlarge:
+        price_per_hour: 0.5361
+        region: eu-west-1
+        period: 0
+      m1.large:
+        price_per_hour: 0.1281
+        region: eu-west-1
+        period: 0
+      c3.large:
+        price_per_hour: 0.1031
+        region: eu-west-1
+        period: 0
+      c3.xlarge:
+        price_per_hour: 0.2061
+        region: eu-west-1
+        period: 0
+      c4.8xlarge:
+        price_per_hour: 1.6495
+        region: eu-west-1
+        period: 0
+      i2.8xlarge:
+        price_per_hour: 1.0300
+        region: eu-west-1
+        period: 0
+      m4.4xlarge:
+        price_per_hour: 1.0070
+        region: eu-west-1
+        period: 0
+      i2.xlarge:
+        price_per_hour: 0.1290
+        region: eu-west-1
+        period: 0
+      c1.xlarge:
+        price_per_hour: 0.3840
+        region: eu-west-1
+        period: 0
+      m2.2xlarge:
+        price_per_hour: 0.3170
+        region: eu-west-1
+        period: 0
+      r3.2xlarge:
+        price_per_hour: 0.4601
+        region: eu-west-1
+        period: 0
+      t1.micro:
+        price_per_hour: 0.0031
+        region: eu-west-1
+        period: 0
+      m4.10xlarge:
+        price_per_hour: 2.5180
+        region: eu-west-1
+        period: 0
+      m1.medium:
+        price_per_hour: 0.0641
+        region: eu-west-1
+        period: 0
+      m1.xlarge:
+        price_per_hour: 0.2561
+        region: eu-west-1
+        period: 0
+      c4.2xlarge:
+        price_per_hour: 0.4124
+        region: eu-west-1
+        period: 0
+      i2.2xlarge:
+        price_per_hour: 0.2597
+        region: eu-west-1
+        period: 0
+elb:
+  eu-west-1:
+    elb:
+      elb:
+        price_per_hour: 0.0280
+        region: eu-west-1
+        period: 0
+emr:
+  eu-west-1:
+    emr:
+      m4.10xlarge:
+        price_per_hour: 0.2700
+        region: eu-west-1
+        period: 0
+      i2.4xlarge:
+        price_per_hour: 0.2700
+        region: eu-west-1
+        period: 0
+      m4.2xlarge:
+        price_per_hour: 0.1200
+        region: eu-west-1
+        period: 0
+      cg1.4xlarge:
+        price_per_hour: 0.2700
+        region: eu-west-1
+        period: 0
+      m2.xlarge:
+        price_per_hour: 0.0620
+        region: eu-west-1
+        period: 0
+      i2.8xlarge:
+        price_per_hour: 0.2700
+        region: eu-west-1
+        period: 0
+      d2.xlarge:
+        price_per_hour: 0.1730
+        region: eu-west-1
+        period: 0
+      c3.8xlarge:
+        price_per_hour: 0.2700
+        region: eu-west-1
+        period: 0
+      r3.xlarge:
+        price_per_hour: 0.0900
+        region: eu-west-1
+        period: 0
+      r3.4xlarge:
+        price_per_hour: 0.2700
+        region: eu-west-1
+        period: 0
+      hs1.8xlarge:
+        price_per_hour: 0.2700
+        region: eu-west-1
+        period: 0
+      d2.2xlarge:
+        price_per_hour: 0.2700
+        region: eu-west-1
+        period: 0
+      m3.2xlarge:
+        price_per_hour: 0.1400
+        region: eu-west-1
+        period: 0
+      m1.xlarge:
+        price_per_hour: 0.0880
+        region: eu-west-1
+        period: 0
+      c3.xlarge:
+        price_per_hour: 0.0530
+        region: eu-west-1
+        period: 0
+      cc2.8xlarge:
+        price_per_hour: 0.2700
+        region: eu-west-1
+        period: 0
+      cr1.8xlarge:
+        price_per_hour: 0.2700
+        region: eu-west-1
+        period: 0
+      m4.xlarge:
+        price_per_hour: 0.0600
+        region: eu-west-1
+        period: 0
+      m1.large:
+        price_per_hour: 0.0440
+        region: eu-west-1
+        period: 0
+      r3.8xlarge:
+        price_per_hour: 0.2700
+        region: eu-west-1
+        period: 0
+      d2.4xlarge:
+        price_per_hour: 0.2700
+        region: eu-west-1
+        period: 0
+      m2.2xlarge:
+        price_per_hour: 0.1230
+        region: eu-west-1
+        period: 0
+      i2.xlarge:
+        price_per_hour: 0.2130
+        region: eu-west-1
+        period: 0
+      i2.2xlarge:
+        price_per_hour: 0.2700
+        region: eu-west-1
+        period: 0
+      m1.small:
+        price_per_hour: 0.0110
+        region: eu-west-1
+        period: 0
+      c4.large:
+        price_per_hour: 0.0260
+        region: eu-west-1
+        period: 0
+      c4.2xlarge:
+        price_per_hour: 0.1050
+        region: eu-west-1
+        period: 0
+      c4.4xlarge:
+        price_per_hour: 0.2100
+        region: eu-west-1
+        period: 0
+      g2.2xlarge:
+        price_per_hour: 0.2000
+        region: eu-west-1
+        period: 0
+      d2.8xlarge:
+        price_per_hour: 0.2700
+        region: eu-west-1
+        period: 0
+      hi1.4xlarge:
+        price_per_hour: 0.2700
+        region: eu-west-1
+        period: 0
+      m3.xlarge:
+        price_per_hour: 0.0700
+        region: eu-west-1
+        period: 0
+      m4.4xlarge:
+        price_per_hour: 0.2400
+        region: eu-west-1
+        period: 0
+      c4.8xlarge:
+        price_per_hour: 0.2700
+        region: eu-west-1
+        period: 0
+      c1.xlarge:
+        price_per_hour: 0.1200
+        region: eu-west-1
+        period: 0
+      m2.4xlarge:
+        price_per_hour: 0.2460
+        region: eu-west-1
+        period: 0
+      c1.medium:
+        price_per_hour: 0.0300
+        region: eu-west-1
+        period: 0
+      r3.2xlarge:
+        price_per_hour: 0.1800
+        region: eu-west-1
+        period: 0
+      m4.large:
+        price_per_hour: 0.0300
+        region: eu-west-1
+        period: 0
+      m1.medium:
+        price_per_hour: 0.0220
+        region: eu-west-1
+        period: 0
+      c3.2xlarge:
+        price_per_hour: 0.1050
+        region: eu-west-1
+        period: 0
+      c3.4xlarge:
+        price_per_hour: 0.2100
+        region: eu-west-1
+        period: 0
+      c4.xlarge:
+        price_per_hour: 0.0520
+        region: eu-west-1
+        period: 0
+reserved:
+  eu-west-1:
+    linux:
+      m1.large:
+        - 3years:
+          price_per_hour: 0.0700
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.0870
+          region: eu-west-1
+          period: 365
+      c3.large:
+        - 3years:
+          price_per_hour: 0.0510
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.0590
+          region: eu-west-1
+          period: 365
+      c3.xlarge:
+        - 3years:
+          price_per_hour: 0.1010
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.1180
+          region: eu-west-1
+          period: 365
+      c1.medium:
+        - 3years:
+          price_per_hour: 0.0490
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.0570
+          region: eu-west-1
+          period: 365
+      i2.2xlarge:
+        - 3years:
+          price_per_hour: 0.3710
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.4660
+          region: eu-west-1
+          period: 365
+      i2.4xlarge:
+        - 3years:
+          price_per_hour: 0.7420
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.9310
+          region: eu-west-1
+          period: 365
+      m3.2xlarge:
+        - 3years:
+          price_per_hour: 0.2600
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.3210
+          region: eu-west-1
+          period: 365
+      c3.2xlarge:
+        - 3years:
+          price_per_hour: 0.2030
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.2360
+          region: eu-west-1
+          period: 365
+      c1.xlarge:
+        - 3years:
+          price_per_hour: 0.1960
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.2280
+          region: eu-west-1
+          period: 365
+      m2.xlarge:
+        - 3years:
+          price_per_hour: 0.0830
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.1020
+          region: eu-west-1
+          period: 365
+      i2.8xlarge:
+        - 3years:
+          price_per_hour: 1.4840
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 1.8620
+          region: eu-west-1
+          period: 365
+      t1.micro:
+        - 3years:
+          price_per_hour: 0.0080
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.0080
+          region: eu-west-1
+          period: 365
+      m3.medium:
+        - 3years:
+          price_per_hour: 0.0330
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.0400
+          region: eu-west-1
+          period: 365
+      m1.medium:
+        - 3years:
+          price_per_hour: 0.0350
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.0440
+          region: eu-west-1
+          period: 365
+      c3.8xlarge:
+        - 3years:
+          price_per_hour: 0.8110
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.9440
+          region: eu-west-1
+          period: 365
+      cr1.8xlarge:
+        - 3years:
+          price_per_hour: 0.7460
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.7420
+          region: eu-west-1
+          period: 365
+      m1.small:
+        - 3years:
+          price_per_hour: 0.0180
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.0220
+          region: eu-west-1
+          period: 365
+      cc2.8xlarge:
+        - 3years:
+          price_per_hour: 0.6100
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.6100
+          region: eu-west-1
+          period: 365
+      m2.2xlarge:
+        - 3years:
+          price_per_hour: 0.1660
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.2040
+          region: eu-west-1
+          period: 365
+      i2.xlarge:
+        - 3years:
+          price_per_hour: 0.1860
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.2330
+          region: eu-west-1
+          period: 365
+      hi1.4xlarge:
+        - 3years:
+          price_per_hour: 0.4820
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.6210
+          region: eu-west-1
+          period: 365
+      m1.xlarge:
+        - 3years:
+          price_per_hour: 0.1400
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.1740
+          region: eu-west-1
+          period: 365
+      m3.large:
+        - 3years:
+          price_per_hour: 0.0650
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.0810
+          region: eu-west-1
+          period: 365
+      m2.4xlarge:
+        - 3years:
+          price_per_hour: 0.3320
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.4080
+          region: eu-west-1
+          period: 365
+      hs1.8xlarge:
+        - 3years:
+          price_per_hour: 1.1660
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 1.1630
+          region: eu-west-1
+          period: 365
+      m3.xlarge:
+        - 3years:
+          price_per_hour: 0.1300
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.1610
+          region: eu-west-1
+          period: 365
+      c3.4xlarge:
+        - 3years:
+          price_per_hour: 0.4060
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.4720
+          region: eu-west-1
+          period: 365
+      g2.2xlarge:
+        - 3years:
+          price_per_hour: 0.0650
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.1540
+          region: eu-west-1
+          period: 365
+    windows:
+      c3.large:
+        - 3years:
+          price_per_hour: 0.1240
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.1320
+          region: eu-west-1
+          period: 365
+      i2.xlarge:
+        - 3years:
+          price_per_hour: 0.3270
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.3960
+          region: eu-west-1
+          period: 365
+      i2.8xlarge:
+        - 3years:
+          price_per_hour: 2.6140
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 3.1700
+          region: eu-west-1
+          period: 365
+      hi1.4xlarge:
+        - 3years:
+          price_per_hour: 0.9620
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 1.1010
+          region: eu-west-1
+          period: 365
+      g2.2xlarge:
+        - 3years:
+          price_per_hour: 0.1450
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.1830
+          region: eu-west-1
+          period: 365
+      m2.xlarge:
+        - 3years:
+          price_per_hour: 0.1980
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.2280
+          region: eu-west-1
+          period: 365
+      i2.4xlarge:
+        - 3years:
+          price_per_hour: 1.3070
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 1.5850
+          region: eu-west-1
+          period: 365
+      m1.small:
+        - 3years:
+          price_per_hour: 0.0400
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.0450
+          region: eu-west-1
+          period: 365
+      m1.large:
+        - 3years:
+          price_per_hour: 0.1600
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.1800
+          region: eu-west-1
+          period: 365
+      c3.xlarge:
+        - 3years:
+          price_per_hour: 0.2480
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.2640
+          region: eu-west-1
+          period: 365
+      cc2.8xlarge:
+        - 3years:
+          price_per_hour: 0.7850
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.8550
+          region: eu-west-1
+          period: 365
+      m1.medium:
+        - 3years:
+          price_per_hour: 0.0800
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.0900
+          region: eu-west-1
+          period: 365
+      m1.xlarge:
+        - 3years:
+          price_per_hour: 0.3200
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.3600
+          region: eu-west-1
+          period: 365
+      i2.2xlarge:
+        - 3years:
+          price_per_hour: 0.6540
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.7930
+          region: eu-west-1
+          period: 365
+      m3.large:
+        - 3years:
+          price_per_hour: 0.1430
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.1620
+          region: eu-west-1
+          period: 365
+      m2.4xlarge:
+        - 3years:
+          price_per_hour: 0.7920
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.9100
+          region: eu-west-1
+          period: 365
+      t1.micro:
+        - 3years:
+          price_per_hour: 0.0090
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.0090
+          region: eu-west-1
+          period: 365
+      c3.4xlarge:
+        - 3years:
+          price_per_hour: 0.9940
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 1.0560
+          region: eu-west-1
+          period: 365
+      c1.xlarge:
+        - 3years:
+          price_per_hour: 0.4800
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.5100
+          region: eu-west-1
+          period: 365
+      m3.2xlarge:
+        - 3years:
+          price_per_hour: 0.5700
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.6460
+          region: eu-west-1
+          period: 365
+      c1.medium:
+        - 3years:
+          price_per_hour: 0.1200
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.1280
+          region: eu-west-1
+          period: 365
+      m3.medium:
+        - 3years:
+          price_per_hour: 0.0720
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.0810
+          region: eu-west-1
+          period: 365
+      m3.xlarge:
+        - 3years:
+          price_per_hour: 0.2860
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.3230
+          region: eu-west-1
+          period: 365
+      hs1.8xlarge:
+        - 3years:
+          price_per_hour: 1.5240
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 1.8830
+          region: eu-west-1
+          period: 365
+      c3.2xlarge:
+        - 3years:
+          price_per_hour: 0.4970
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.5280
+          region: eu-west-1
+          period: 365
+      c3.8xlarge:
+        - 3years:
+          price_per_hour: 1.9870
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 2.1110
+          region: eu-west-1
+          period: 365
+      m2.2xlarge:
+        - 3years:
+          price_per_hour: 0.3960
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 0.4550
+          region: eu-west-1
+          period: 365
+      cr1.8xlarge:
+        - 3years:
+          price_per_hour: 1.1300
+          region: eu-west-1
+          period: 1095
+        - annual:
+          price_per_hour: 1.3950
+          region: eu-west-1
+          period: 365
+
+ebs:
+  eu-west-1:
+    gp2:
+      region: eu-west-1
+      price_per_gbmonth: 0.11
+    io1:
+      region: eu-west-1
+      price_per_gbmonth: 0.138
+      price_per_iopmonth: 0.072
+    standard:
+      region: eu-west-1
+      price_per_gbmonth: 0.055

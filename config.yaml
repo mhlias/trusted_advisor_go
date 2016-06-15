@@ -1,0 +1,33 @@
+---
+security_groups:
+  - sg1:
+    id: sg-6632a902
+    proto: tcp
+    port: 22
+  - sg2:
+    id: sg-dgdsg
+    proto: udp
+    port: 53
+public_instances:
+  - inst1:
+    role: nat
+approved_amis:
+  - centos_ami:
+    ami_id: "ami-abc"
+  - debian_ami:
+    ami_id: "ami-xyz"
+iam:
+  users:
+    - "User XYZ for project description":
+      username: user_abc1
+    - User2:
+      username: user_xyz1
+    - User3:
+      username: user_zyx2
+  general:
+    expire_pass_last_login: 45
+    expire_key_last_use: 90
+cloudtrail:
+  check_region: true
+
+
